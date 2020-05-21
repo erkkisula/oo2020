@@ -1,0 +1,4 @@
+Nõmmik,Andrus,A,B,3,4
+Velliste,Agu,B,D,3,4
+Haljaste,Toomas,C,C,3,4
+Vähi,Ülle,A,A,3,4
